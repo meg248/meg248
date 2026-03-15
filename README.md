@@ -3,7 +3,7 @@
 
 
 ### About Me
-- Currently building **Rideora** - a Bus Booking Platform
+
 - Learning **JavaScript & Python**
 - Interested in Frontend Development and Data Science  
 - Working toward building products that make a difference
