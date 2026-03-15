@@ -1,13 +1,10 @@
-<h1 align="center">Hi! I'm Meghna Dalakoti</h1>
-
-
+<h3>Hi! I'm Meghna</h3>
 
 ### About Me
-
-- Learning **JavaScript & Python**
+- Learning JavaScript & Python
 - Interested in Frontend Development and Data Science  
 - Working toward building products that make a difference
-
+  
 ---
 
 ### Tech Stack
